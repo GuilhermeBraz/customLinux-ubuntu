@@ -12,8 +12,6 @@
 - cal : display a calendar on the current month
 - anime(ani-cli) : view anime on terminal - [ani-cli repository](https://github.com/pystardust/ani-cli)
 - neo (neofetch) : cool specs display on terminal
-- batstat : display battery status on terminal
-- tldr : display a short summary of a command
 
 ## Useful commands
 
@@ -22,6 +20,8 @@
 - acpi : display battery status
 - htop : display cpu and memory usage
 - ncdu : display disk usage
+- tldr : display a short summary of a command
+- batstat : display battery status on terminal
 
 ### System shortcuts
 
